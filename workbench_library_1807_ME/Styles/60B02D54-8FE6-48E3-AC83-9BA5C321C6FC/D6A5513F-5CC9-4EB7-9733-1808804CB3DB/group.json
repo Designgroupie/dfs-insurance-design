@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D6A5513F-5CC9-4EB7-9733-1808804CB3DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 1284,
+    "x": 44,
+    "y": 1256
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "700B2283-F06F-4E0F-A7CB-8DAD737E911F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "273E31DC-3939-49EA-AA67-41D4FE48A0A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97A6D81D-7E69-46D8-B3F1-89BE1C35115E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8B8993B-4D53-4965-907F-CFDED564F18A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C91E3FBF-508F-4DF4-9B88-B051AA7F68A1"
+    }
+  ],
+  "name": "HSN 7 TSN",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

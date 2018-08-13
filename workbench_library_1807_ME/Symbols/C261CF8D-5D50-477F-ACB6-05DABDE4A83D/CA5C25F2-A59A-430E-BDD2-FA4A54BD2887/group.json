@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "CA5C25F2-A59A-430E-BDD2-FA4A54BD2887",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF7E2FAB-A4CC-4D2F-8ED8-997F43E539D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6BD2487-03CC-4992-A6B6-5525D2BC8BF9",
+    "height": 35,
+    "width": 77,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "51515A32-3D45-449D-A26D-551F561BCD69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2D2A976-CC81-4B5A-95F6-11A2DE00852A"
+    }
+  ],
+  "name": "Button-Base",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E60FBCC0-5117-43CD-9FB5-F386851A38BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

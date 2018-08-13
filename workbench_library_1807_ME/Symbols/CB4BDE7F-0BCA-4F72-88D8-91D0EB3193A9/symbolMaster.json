@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "59041E64-6B76-49DB-B8A0-EE4FA0DB5B1E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8108,
+  "do_objectID": "CB4BDE7F-0BCA-4F72-88D8-91D0EB3193A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "744481EE-5141-4DCA-84E4-3EFA24795180",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7A4F301-6777-4713-8336-BAA352DF5F57",
+    "height": 120,
+    "width": 249,
+    "x": 2480,
+    "y": 720
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "62863B45-ECCF-4ADA-B45C-6733E7B1ABC7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7BC6AD80-47E1-4E42-A959-3BE0CF007A99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0530594-BCFA-4040-8CB7-119CE0B8046C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A920C50-5069-4740-8786-66D02BF26641"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C3D2B74-2321-4F95-BB8B-14CC7AAA7B67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9ADF0BA-8C92-48D7-B987-1DDCD83E795D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E64B7A4E-2CDB-4CF1-9A10-117D4A71C56D"
+    },
+    {
+      "class": "text",
+      "id": "C11F499C-B6BE-40FB-97B0-127BB36847C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "955623CF-D584-4881-9C98-7E2C9C5C8F16"
+    }
+  ],
+  "name": "Form_Elements/Input_Field/e-inp-numeric/Disabled/Intial_Value",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AD1A6D7-A3D4-4DEF-A867-B4109D3FD583",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C1D5040-89F4-468E-859B-A77784451F8E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3F58294A-4799-4D15-934F-920D60C102CC",
+    "guides": [
+    ]
+  }
+}

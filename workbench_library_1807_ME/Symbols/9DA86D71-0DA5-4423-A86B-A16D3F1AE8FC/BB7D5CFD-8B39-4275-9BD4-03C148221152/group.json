@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "BB7D5CFD-8B39-4275-9BD4-03C148221152",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E86E6B81-50CE-41A3-A25C-F2AFC04946E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "050268A2-E9F2-44E3-A2D7-1DE4EB016894",
+    "height": 72,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5E3CBACC-EB5D-4A2C-A424-A4B714BA27E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF7CBA82-D0F8-4FB6-88A2-5EC32340DCC3"
+    },
+    {
+      "class": "text",
+      "id": "3B7494BC-E3AB-458A-8EF6-BB9C156B28D8"
+    },
+    {
+      "class": "group",
+      "id": "66FB93BA-EBA5-4FF8-B8D2-94706EBFE7AA"
+    }
+  ],
+  "name": "Header/Meta/MQ4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6492DD22-F156-4670-815F-7A298B783553",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

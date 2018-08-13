@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B8AC100D-C2A1-4EFF-9A3B-31302F350CCA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2736,
+  "do_objectID": "296C77AA-4186-4004-8027-8E6E8779FC4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C601B65C-6361-4617-B807-82E37FAB0C2C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25A3266E-B82E-48EF-99C4-4E84BB7FF35F",
+    "height": 14,
+    "width": 14,
+    "x": 698,
+    "y": -78
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A3BD82C-0199-4229-B55E-3A1D5CC87D15",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7D76C1E8-E006-4468-8E9B-6FDA41389ED9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AC280AB-DA49-4EBE-B94F-A1BC7EE23162"
+    }
+  ],
+  "name": "Icons/Pictograms/icon-1__checkmark--success",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C341FA52-006A-4ECD-B9D2-953BE5C45A32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BBA961FE-F0AB-4AAE-974A-AC72DCE7CEB1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "774E0819-542C-4C48-A55D-6C85CF16A2C6",
+    "guides": [
+    ]
+  }
+}

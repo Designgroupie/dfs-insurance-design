@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "16D22283-7538-4B66-8B05-35E00FF5FA72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88614BAB-96BD-43F2-BE7D-F2B976024CEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D618DED4-5222-4429-8710-4E8AA745012A",
+    "height": 70,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Toggle/e-togg-new/Options/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17CF9561-2CEB-4F30-A8CD-6431E39F34C3",
+      "overrideName": "91B1C6F4-8A87-41E6-8F9B-D5A71141BA96_stringValue",
+      "value": "Very long Label lorem ipsum lorem ipsum lorem ipsum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C10D714B-1760-4F3B-A30E-23E8B5ABD121",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2AD37D96-BC2B-4EED-9D3C-3AFC12871629",
+  "verticalSpacing": 0
+}

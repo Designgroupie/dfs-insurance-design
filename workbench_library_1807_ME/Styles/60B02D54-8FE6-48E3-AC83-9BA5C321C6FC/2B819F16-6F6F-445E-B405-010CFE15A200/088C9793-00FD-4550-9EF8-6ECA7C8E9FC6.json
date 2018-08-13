@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "088C9793-00FD-4550-9EF8-6ECA7C8E9FC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35D3C01F-51E3-4563-8AA8-BFE9F870E5E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C70EDE10-181C-44CE-BB89-3BADB33B873D",
+    "height": 112,
+    "width": 317,
+    "x": 0,
+    "y": 357
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "default entered value edge",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA7BDD55-BFCD-4467-B77D-ACB0C0BFD56A",
+      "overrideName": "4833FFFC-0970-4787-9DAD-1AB3CCD5F670_stringValue",
+      "value": "Very long Label Lorem ipsum dolor sit amet, consetetur sadipscing "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C15FA485-82CB-44E7-B304-CE9039EE9876",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF24CE7C-C4CA-43A4-A1CF-EA03D102B859",
+  "verticalSpacing": 0
+}
