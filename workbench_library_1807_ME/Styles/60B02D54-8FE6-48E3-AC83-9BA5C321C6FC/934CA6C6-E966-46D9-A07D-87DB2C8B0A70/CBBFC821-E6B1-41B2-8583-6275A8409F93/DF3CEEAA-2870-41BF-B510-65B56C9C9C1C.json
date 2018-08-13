@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DF3CEEAA-2870-41BF-B510-65B56C9C9C1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C744653-7BEA-431D-AA1F-1131FB2FCA81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CFDBC29-7A39-4326-A83F-3232965EEF6C",
+    "height": 14,
+    "width": 14,
+    "x": 90,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form_Elements/Input_Field/Validation/Delete",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8E2D176-1FD9-4A23-A401-8D69C3B7943A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D48B47C5-4386-4C5F-B55D-01F5424FB68D",
+  "verticalSpacing": 0
+}

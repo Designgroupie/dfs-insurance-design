@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B1E6B875-8B19-435B-819E-F312575230F3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 19253,
+  "do_objectID": "E53392E7-9828-42F2-B2B6-D313B7577C07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09BEDAE0-1B7A-4FC7-ACB4-5510738F4878",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA5D68B2-826E-4D04-8B60-7FD9A8BEB149",
+    "height": 35,
+    "width": 71,
+    "x": 4802,
+    "y": -125
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DFB33180-1A28-4512-BAC3-4F259952E839",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "643910B5-86CA-45E0-8BD2-040C76FD696B"
+    },
+    {
+      "class": "text",
+      "id": "F31CD9B9-A794-40DF-A996-CC5EDB6836DA"
+    }
+  ],
+  "name": "Toggle/e-togg-2/Options/Active_Hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "263B11F8-A575-48A8-9596-75D12680CAC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D785DA8-38B1-4EAB-B7CD-28D283862443",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D7B47FFF-B87C-4A8B-A844-35D024C26304",
+    "guides": [
+    ]
+  }
+}

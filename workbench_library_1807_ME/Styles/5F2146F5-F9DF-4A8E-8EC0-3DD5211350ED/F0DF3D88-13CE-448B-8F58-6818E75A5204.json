@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F0DF3D88-13CE-448B-8F58-6818E75A5204",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84BFF643-18B7-4024-8C7D-26D3A767F3C7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F49B94C-B47A-4AC3-9B0A-58D19B1AA607",
+    "height": 92,
+    "width": 317,
+    "x": 389,
+    "y": 248
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown/Active focus",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C329BD6-7FB5-4ED5-8A34-0BA2FC2C28D3",
+      "overrideName": "9F26048E-199A-4019-BA85-3DDC7D223A3F_symbolID",
+      "value": "DA6676E3-76DB-4243-B379-D45EDE98ECF3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDBB594C-6971-4722-B512-58BDF3839A61",
+      "overrideName": "37D4FE37-1B4A-4CF5-B0F6-3E3F31741AA4_stringValue",
+      "value": "On Focus"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A9CFFC3-9C9F-4E87-BECA-5E494C22FDE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14102CFF-588B-4815-8732-50218D6F133E",
+  "verticalSpacing": 0
+}

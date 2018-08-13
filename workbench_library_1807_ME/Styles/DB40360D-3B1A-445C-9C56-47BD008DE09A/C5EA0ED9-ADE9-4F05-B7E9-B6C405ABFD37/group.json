@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C5EA0ED9-ADE9-4F05-B7E9-B6C405ABFD37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B7558CE-5287-4FCE-ABFC-C112CEF3044B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A89613C7-3A91-44A5-8F1D-AE2A07B73E33",
+    "height": 132,
+    "width": 1291,
+    "x": 44,
+    "y": 1200
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5F468EAE-B86F-418E-9667-BD360E0CD79F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E49AE91-1201-4888-81D0-8769C2B68758"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0539411B-4755-4BA8-B0BB-519D46BCDD7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CA3F9F2-4397-4D26-9362-DE2A7A8CF2F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E5EA4FF-4DCE-471D-B342-C112762FBE9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CD75F96-1BD2-40A7-AAD8-6D83879FC905"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61D85185-BC52-4D8C-95ED-F6E26822DD70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC348A08-72A5-4172-92D6-5742271CFC23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3794572B-DE6B-4272-A317-50DAFB9078BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B4201DC-9F56-4989-BC21-7039F13A44A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE211777-790D-42CE-ADE7-C49DBB06568B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37247C48-DEE3-42E7-B92C-7C2F15A760D9"
+    }
+  ],
+  "name": "Tab-Legend",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5180195E-00F3-4C43-826B-2A098D25CD22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

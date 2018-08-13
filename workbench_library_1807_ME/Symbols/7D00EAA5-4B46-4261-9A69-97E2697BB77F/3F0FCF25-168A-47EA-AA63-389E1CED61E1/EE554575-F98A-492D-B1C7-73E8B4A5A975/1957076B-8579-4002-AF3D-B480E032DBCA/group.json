@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1957076B-8579-4002-AF3D-B480E032DBCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C28080DB-4861-49EF-A5D5-077A357D89A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FA5153B-3C17-4953-A85D-C3F033C0EE7D",
+    "height": 15,
+    "width": 9,
+    "x": 10,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3969B16D-E63F-4604-B067-B5BB06A53B27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6340B33C-9E43-4655-97F5-D8DD41980AAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FA6F0E7-E9D7-4911-8DC1-0E9F4E4BE850"
+    }
+  ],
+  "name": "Draghandle_Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3077E461-D91A-4545-BED6-4B7AE3552466",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

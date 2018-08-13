@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "95071DFF-0499-4CC5-9D85-D4C4E81DA504",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB36D3CC-5FDF-49CE-880D-DDF677236021",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20E265B0-031A-407A-AE67-F6A3336FEB65",
+    "height": 20,
+    "width": 88,
+    "x": 0,
+    "y": 72
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radiobutton_2",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A144B805-7BDA-4846-9853-932E04802CA9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "125DF18C-1FBC-4E52-8463-D93EB4A6E6D2",
+  "verticalSpacing": 0
+}

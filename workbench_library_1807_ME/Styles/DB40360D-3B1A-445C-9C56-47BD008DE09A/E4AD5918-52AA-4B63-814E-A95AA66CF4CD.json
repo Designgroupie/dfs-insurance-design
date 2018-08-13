@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E4AD5918-52AA-4B63-814E-A95AA66CF4CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "002AE7BD-8CB9-4EE0-9C78-F66683DE1E15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADA08432-9568-4EBD-B850-43B78D2FC079",
+    "height": 60,
+    "width": 317,
+    "x": 734,
+    "y": 491
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Accordion/e-acco-1/MQ1-4/Disabled",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2B04AB0-A1E8-4064-A9A1-A9430F500BE8",
+      "overrideName": "34DB0AA8-2B6B-44EA-8E38-9A3A15A75BD8_symbolID",
+      "value": "A7C45657-AFBE-4E57-9D04-418062B59B67"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B98DD88-B9C6-4C4E-91B6-0236B3EEF5F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33EE70CD-0710-409F-BF66-B9B256DB109C",
+  "verticalSpacing": 0
+}

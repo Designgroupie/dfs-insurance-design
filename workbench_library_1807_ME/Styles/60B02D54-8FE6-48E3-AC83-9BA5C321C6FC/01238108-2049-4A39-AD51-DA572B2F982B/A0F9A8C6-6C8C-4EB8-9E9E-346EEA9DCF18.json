@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A0F9A8C6-6C8C-4EB8-9E9E-346EEA9DCF18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA9E108A-426C-4862-B7E2-D64426F7D928",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "439F178D-5ABA-4A9E-B093-67B65804411D",
+    "height": 92,
+    "width": 317,
+    "x": 0,
+    "y": 195
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "active-entered value",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A9FF610-2184-4F34-BA33-18E59D5001AF",
+      "overrideName": "E3CEB37C-BF2D-433A-8AD0-7055F07B8C73_stringValue",
+      "value": " Entered value"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA1ED7CE-1EC2-4482-B84B-7408446B71F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "07032B7C-6EEF-4912-B698-1E2083D9F227",
+  "verticalSpacing": 0
+}
