@@ -1,0 +1,1 @@
+This repository contains the shared design library in the form of a sketch file, which will be used to create and maintain the design for the DFS project.
